@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: A few quick things
 ---
 
 ## A bit about me & why I'm here!
