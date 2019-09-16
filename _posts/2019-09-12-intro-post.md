@@ -2,7 +2,6 @@
 layout: post
 title: Intro Post
 subtitle: September 16, 2019
-tags: [test, post, practice]
 comments: true
 ---
 
