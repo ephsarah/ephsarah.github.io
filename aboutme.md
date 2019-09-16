@@ -13,8 +13,3 @@ Senior year! With just 8 classes left, it sounded to me like the right time to j
 **Avoiding** because I spend more time reading and writing about books as a comp lit major, so I feared comp sci probably wouldn't be my thing.
 Anyhoo, I'm excited to be here and to learn some new skills that will hopefully enhance my understanding of the world going on around me and the technology - wearable and not - I interact with everyday.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
