@@ -25,7 +25,7 @@ navbar-links:
     - Example Project Page 1: "exampleprojectpage1"
     - Example Project Page 2: "exampleprojectpage2"
     - Example Project Page 3: "exampleprojectpage3"
-    - Insert here: "http://www.markdowntutorial.com/"
+    - Markdown Tutorial (for reference): "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
