@@ -9,4 +9,7 @@ comments: true
 # Sarah Yang
 ## Williams College 2020, Comparative Literature
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Very little sewing experience. (I think I practiced a bit in Girl Scouts, but 4th grade was a long time ago.)
+Zero programming experience. Excited to learn! And, in general, I'm excited to get a better understanding of what software engineers do.
+
+1 boring fact: I bought a plant at Stop & Shop last week.
