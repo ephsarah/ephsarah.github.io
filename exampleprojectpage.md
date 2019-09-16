@@ -5,4 +5,4 @@ image: /img/3569190.jpg
 ---
 
 
-This is an example page of where I would post my first project.
+This is a page where I will post my first project.
