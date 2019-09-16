@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Example Project Page #1
+title: Example Project Page Number 1
 image: /img/number1.png
 ---
 
