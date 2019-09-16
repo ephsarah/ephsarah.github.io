@@ -9,7 +9,7 @@ subtitle: A few quick things
 Senior year! With just 8 classes left, it sounded to me like the right time to face the subject I had been **intrigued** by, but perhaps **avoiding**. Computer science was that subject. I'm **intrigued** for many reasons.
 1. I want a peak into the behind-the-scenes of this digital age we're living in...what do coders *do*?
 
-2. Through work/internships, I've been involved in the tech world in non-technical roles. I've had to message the value of an app, but admittedly knew very little about what the engineers did to build it.
+2. In past summer internships, I've been involved in the tech world in non-technical roles. I've had to message the value of an app, but admittedly knew very little about what the engineers did to build it.
 
 3. I like working with my hands (cooking, knitting, petting dogs, etc) which is why I'm excited to sew!
 
