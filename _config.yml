@@ -22,7 +22,7 @@ description: Sarah Yang's CS103 Website
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Example Project Page: "2019-09-16-example-project-page.md"
+    - Example Project Page: "exampleprojectpage"
     - Insert here: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
