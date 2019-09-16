@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Example Project Page #3
+title: Example Project Page No. 3
 image: /img/number3.png
 ---
 
