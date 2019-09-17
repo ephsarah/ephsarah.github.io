@@ -5,4 +5,4 @@ image: /img/number3.png
 ---
 
 
-This is a page where I will post my third project.
+This is a placeholder page where I will post my third project (and so on and so forth).
