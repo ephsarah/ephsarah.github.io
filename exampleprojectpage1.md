@@ -5,4 +5,4 @@ image: /img/number1.png
 ---
 
 
-This is a page where I will post my first project.
+This is a placeholder page where I will post my first project.
