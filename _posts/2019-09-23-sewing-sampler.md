@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment: Sewing Sampler
+title: Sewing Sampler Assignment
 subtitle: September 23, 2019
 image: ephsarah.github.io/img/IMG_0046.jpg
 comments: true
