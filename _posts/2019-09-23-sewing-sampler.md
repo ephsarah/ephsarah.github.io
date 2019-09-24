@@ -13,4 +13,4 @@ Stiches of choice:
 * stem stitch + French knots (slice of pepperoni pizza)
 * chain stitch
 
-![Sarah's Sewing Sampler](https://ephsarah.github.io/img/IMG_0046.jpg)
+![Sarah's Sewing Sampler](https://ephsarah.github.io/img/IMG_0049.JPG)
