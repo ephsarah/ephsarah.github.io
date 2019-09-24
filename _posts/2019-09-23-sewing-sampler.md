@@ -9,4 +9,4 @@ comments: true
 
 Tip for the past Sarah: Pay attention to what's happening on the wrong/back side of the fabric! Knots can form with excess floss getting jumbled together.
 
-img: /img/IMG_0046.jpg
+![Sarah's Sewing Sampler](https://ephsarah.github.io/img/IMG_0046.jpg)
