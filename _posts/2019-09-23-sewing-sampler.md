@@ -2,6 +2,7 @@
 layout: post
 title: Sewing Sampler Assignment
 subtitle: September 23, 2019
+bigimg: /img/IMG_0046.jpg
 comments: true
 ---
 
