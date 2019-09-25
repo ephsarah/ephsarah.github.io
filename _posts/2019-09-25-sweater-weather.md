@@ -12,6 +12,7 @@ comments: true
 * Depending on the temperature input, the program outputs an appropriate dress code for that weather.
 
 
+![Sarah's Sweater Weather Output](https://ephsarah.github.io/img/sampler.jpeg)
 
 Tip for my past self: "else" is a catch all by nature, so you don't have to have a (body) that defines what it is.
 
