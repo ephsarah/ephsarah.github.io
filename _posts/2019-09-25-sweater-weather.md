@@ -8,7 +8,7 @@ comments: true
 # Assignment: Sweater Weather
 
 * Wrote a program in C to practice using if/else if/else statements (conditionals).
-* The integer variable is temperature and can be set to any integer value.
+* The integer variable is temperature and can be assigned any integer value.
 * Depending on the temperature input, the program outputs an appropriate dress code for that weather.
 
 
