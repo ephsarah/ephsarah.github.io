@@ -12,7 +12,7 @@ comments: true
 * Depending on the temperature input, the program outputs an appropriate dress code for that weather.
 
 
-![Sarah's Sweater Weather Output](https://ephsarah.github.io/img/sampler.jpeg)
+![Sarah's Sweater Weather Output](https://ephsarah.github.io/img/Screen Shot 2019-09-25 at 3.04.36 PM.png)
 
 Tip for my past self: "else" is a catch all by nature, so you don't have to have a (body) that defines what it is.
 
