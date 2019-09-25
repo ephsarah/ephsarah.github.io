@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Sewing Sampler Assignment
+title: Sewing Sampler
 subtitle: September 23, 2019
 bigimg: /img/IMG_0046.jpg
 comments: true
 ---
 
+# Assignment: Sewing Sampler
 
 Tip for the past Sarah: Pay attention to what's happening on the wrong/back side of the fabric! Knots can form with excess floss getting jumbled together.
 
