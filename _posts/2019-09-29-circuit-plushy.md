@@ -9,6 +9,8 @@ comments: true
 
 The assignment was to make a light up plushy using felt, 3 LED lights, battery + holder, slide switch, button, conductive and non-conductive thread. Below I've broken down the steps with pictures.
 
+Tip for my past self: When sewing the conductive thread, leave enough of a margin to do the whip stitch - otherwise things get cramped.
+
 1. Began by paper prototyping the plushy, tracing how the battery connects to the slide switch, LEDs, and button.
 
  ![Plushy Paper Prototype](https://ephsarah.github.io/img/paperplushyproto.JPG)
@@ -25,5 +27,3 @@ The assignment was to make a light up plushy using felt, 3 LED lights, battery +
  
  ![Completed Plushy Back](https://ephsarah.github.io/img/backplushy.JPG)
 
-
-Tip for my past self: When sewing the conductive thread, leave enough of a margin to do the whip stitch - otherwise things get cramped.
