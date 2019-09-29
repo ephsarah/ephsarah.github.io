@@ -19,7 +19,7 @@ The assignment was to make a light up plushy using felt, 3 LED lights, battery +
 
 3. Connected the electronic components via conductive thread in running stitch. Sewed the edges of the plushy using regular thread in whip stitch. The LEDs light up when the slide switch (maintained switch) is slid to the "ON" position and the button (momentary switch) is pressed.
 
- ![Incompleted Plushy Felt](https://ephsarah.github.io/img/)
+ ![Incompleted Plushy Felt](https://ephsarah.github.io/img/feltplushy.jpg)
 
  ![Completed Plushy Front](https://ephsarah.github.io/img/frontplushy.jpg)
  
