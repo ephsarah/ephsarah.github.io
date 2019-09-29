@@ -13,7 +13,7 @@ The assignment was to make a light up plushy using felt, 3 LED lights, battery +
 
  ![Plushy Paper Prototype](https://ephsarah.github.io/img/paperplushyproto.JPG)
 
-2. Tested the design using alligator wires.
+2. Tested the design using alligator clips.
 
  ![Alligator Prototyping Stage](https://ephsarah.github.io/img/alligatorplushy.JPG)
 
