@@ -15,7 +15,7 @@ comments: true
 
 ![Homemade Switches Front](https://ephsarah.github.io/img/switchesfront.JPG)
 
-![Homemade Switches Back](https://ephsarah.github.io/img/switchesback.JPG)
+![Homemade Switches Back](https://ephsarah.github.io/img/switchesbackupdated.JPG)
 
 ![Homemade Switches Alligator Stage](https://ephsarah.github.io/img/switchesalligator.JPG)
 
