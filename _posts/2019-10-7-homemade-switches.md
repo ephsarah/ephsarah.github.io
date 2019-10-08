@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plushy Redux
+title: Homemade Switches
 subtitle: October 7, 2019
 comments: true
 ---
