@@ -19,6 +19,6 @@ comments: true
 
 ![Homemade Switches Alligator Stage](https://ephsarah.github.io/img/switchesalligator.JPG)
 
-![Homemade Switches Paper Prototype](https://ephsarah.github.io/img/switchespaper.JPG)
+![Homemade Switches Paper Prototype](https://ephsarah.github.io/img/switchespaperupdated.JPG)
 
 Tip for my past self: Be careful about the way I sew on the LEDs!
