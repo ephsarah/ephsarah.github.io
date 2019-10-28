@@ -5,7 +5,7 @@ subtitle: October 28, 2019
 comments: true
 ---
 
-# Assignment: Homemade Switches
+# Assignment: Simultaneous Sparklies
 
 * The assignment was to light up 3 sets of LEDs simultaneously according to 3 different patterns (flash bulb, synchronous, big dipper)
 * Also lights up extra credit blue ghost LED
