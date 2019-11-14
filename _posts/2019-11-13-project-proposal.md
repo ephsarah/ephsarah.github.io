@@ -7,10 +7,9 @@ comments: true
 
 # Assignment: Project Proposal
 
-* The program emits Morse code "SOS" to the Vibe Board when circuit is closed
-* Emits Morse code "Sarah" when circuit open
-* Closed circuit = switch ON, open circuit = switch OFF
+* When light sensor senses it's dark, buzzer plays "Jingle Bells" and LEDs flash according to the music.
+* When light sensor senses it's dark AND star is snapped onto top of tree, buzzer plays "We Wish You a Merry Christmas" and LEDs flash according to the music.
+* NOTE: circuit sketch edit! The conductive thread connecting the positive sew tabs on the LEDs AND the conductive thread connecting the positive sew tab on the BUZZER should be connected to specific Pins on the board (not just to a positive tab...need to be able to declare the pins as outputs and write out to them).
 
 ![ProjectProposal](https://ephsarah.github.io/img/litchristmastree.jpg)
 
-Tip for my past self: in the loop, remember to store the voltage from the switch pin as "int s" (for example). Then go into the if/else statements.
