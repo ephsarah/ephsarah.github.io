@@ -11,5 +11,5 @@ comments: true
 * If pin already on, turns it off.
 * PWM pins contained in an array. The state of each pin (on/off) contained in second array.
 
-![Analog Arrays](https://ephsarah.github.io/img/treeproto.jpg)
+![Analog Arrays](https://ephsarah.github.io/img/analogarray.JPG)
 
