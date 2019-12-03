@@ -9,7 +9,7 @@ comments: true
 
 **1. Project title, description, motivation**
 
-## Sarah's Singing LED Christmas Tree.
+## Sarah's Singing LED Christmas Tree
     
 *Amidst the stress of papers and final exams, it's often hard for me to get in the Christmas spirit!*
 *I designed this singing, light-up Christmas tree to remind myself that the most wonderful time of the year is indeed right around the corner...no matter the academic challenges that lie ahead.*
