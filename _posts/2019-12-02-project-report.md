@@ -40,6 +40,7 @@ comments: true
 **4. 1 Photo of your alligator prototype working**
 
 ![Tree Alligator Prototype](https://ephsarah.github.io/img/aligatortree.JPG)
+
 Here is a photo when I alligator clipped the star snap feature. This photo was taken before I broke apart my board. This stage was important to make sure my code worked and that the light sensor and snap/button behaved appropriately.
 
 *I alligator prototyped the whole project in class on the Monday before Thanksgiving break (with all pieces separated, and lots of clips!) but can't find the photo I took!!
@@ -47,18 +48,23 @@ Here is a photo when I alligator clipped the star snap feature. This photo was t
 **5. Photo of at least 3 stages of your working project (or video)**
 
 ![Working Code](https://ephsarah.github.io/img/workingcode.JPG)
+
 A picture of my working code on an unsnapped board.
 
 ![One stage](https://ephsarah.github.io/img/1stage.JPG)
+
 The under layer of the tree where you can see the circuit paths. I used conductive thread and made a bus with conductive fabric to bring the negative traces from the LEDs and star snap back to ground. I prevented my traces from crossing by placing a scrap piece of felt in between as insulation.
 
 ![Fabric Tube](https://ephsarah.github.io/img/fabrictube.JPG)
+
 An up-close view of my fabric tube that encases the star's positive trace. This ensures that it doesn't get tangled with anything else. After I sewed the tube, I turned it inside out to have a cleaner edge.
 
 ![2 Sides](https://ephsarah.github.io/img/2sidestree.JPG)
+
 Before I sewed the two faces togegther.
 
 ![Final Tree](https://ephsarah.github.io/img/finaltree.JPG)
+
 The tree, all trimmed and ready to sing and dance!
 
 **6. 3 tips to your past self**
