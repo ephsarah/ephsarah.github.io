@@ -13,7 +13,7 @@ comments: true
     
 *Amidst the stress of papers and final exams, it's often hard for me to get in the Christmas spirit!*
 *I designed this singing, light-up Christmas tree to remind myself that the most wonderful time of the year is indeed right around the corner...no matter the academic challenges that lie ahead.*
-*It's the perfect size to hang up on your dorm wall - and small enough to bring home to show off to parents! I know mine are anxious to see the new skills I've picked up in CS103.*
+*It's the perfect size to hang up on your dorm wall - and small enough to bring home to show off to parents!...I know mine are anxious to see the new skills I've picked up in CS103.*
 * When light sensor senses it's dark, LEDs flash in pattern that looks like snow falling (highest position LED to lowest -- white, green, red -- twinkling similar to ghost firefly).
 * When light sensor senses it's dark AND yellow star is snapped onto top of tree, buzzer plays "Jingle Bells" and LEDs flash according to the music.
 
@@ -43,7 +43,7 @@ comments: true
 
 Here is a photo when I alligator clipped the star snap feature. This photo was taken before I broke apart my board. This stage was important to make sure my code worked and that the light sensor and snap/button behaved appropriately.
 
-*I alligator prototyped the whole project in class on the Monday before Thanksgiving break (with all pieces separated, and lots of clips!) but can't find the photo I took!!
+*I alligator prototyped the whole project in class on the Tuesday before Thanksgiving break (with all pieces separated, and lots of clips!) but can't find the photo I took!!*
 
 **5. Photo of at least 3 stages of your working project (or video)**
 
