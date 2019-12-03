@@ -9,7 +9,7 @@ comments: true
 
 **1. Project title, description, motivation**
 
-    ##Sarah's Singing LED Christmas Tree.
+## Sarah's Singing LED Christmas Tree.
     
     *Amidst the stress of papers and final exams, it's often hard for me to get in the Christmas spirit!*
     *I designed this singing, light-up Christmas tree to remind myself that the most wonderful time of the year is indeed right around the corner...no matter the academic challenges that lie ahead.*
@@ -34,11 +34,11 @@ comments: true
     
 **3. Screenshot of your revised paper prototype of your project**
 
-![Paper Prototype](https://ephsarah.github.io/img/treeproto.JPG)
+![Paper Prototype](https://ephsarah.github.io/img/treeproto.jpg)
 
 **4. 1 Photo of your alligator prototype working**
 
-![Tree Alligator Prototype](https://ephsarah.github.io/img/alligatortree.JPG)
+![Tree Alligator Prototype](https://ephsarah.github.io/img/aligatortree.JPG)
 Here is a photo when I alligator clipped the star snap feature. This photo was taken before I broke apart my board. This stage was important to make sure my code worked and that the light sensor and snap/button behaved appropriately.
 
 *I alligator prototyped the whole project in class on the Monday before Thanksgiving break (with all pieces separated, and lots of clips!) but can't find the photo I took!!
