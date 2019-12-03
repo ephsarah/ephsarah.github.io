@@ -35,7 +35,7 @@ comments: true
     
 **3. Screenshot of your revised paper prototype of your project**
 
-![Paper Prototype](https://ephsarah.github.io/img/treeproto.jpg)
+![Paper Prototype](https://ephsarah.github.io/img/thistreeproto.jpg)
 
 **4. 1 Photo of your alligator prototype working**
 
