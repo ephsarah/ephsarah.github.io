@@ -18,19 +18,20 @@ comments: true
 * When light sensor senses it's dark AND yellow star is snapped onto top of tree, buzzer plays "Jingle Bells" and LEDs flash according to the music.
 
 **2. Comprehensive materials list**
-    * LilyPad board
-    * 6 LilyPad LEDs
-    * 1 light sensor
-    * 1 buzzer
-    * conductive thread
-    * 12" strip of conductive fabric
-    * scissors, needle
-    * 1 snap (1 female and 1 male side)
-    * green felt (20" x 20")
-    * 1 square brown felt
-    * 1 square yellow felt
-    * red, green shiny embroidery floss
-    * yellow, green embroidery floss
+* LilyPad board
+* USB to LilyPad board cord
+* 6 LilyPad LEDs
+* 1 light sensor
+* 1 buzzer
+* conductive thread
+* 12" strip of conductive fabric
+* scissors, needle
+* 1 snap (1 female and 1 male side)
+* green felt (20" x 20")
+* 1 square brown felt
+* 1 square yellow felt
+* red, green shiny embroidery floss
+* yellow, green embroidery floss
     
 **3. Screenshot of your revised paper prototype of your project**
 
