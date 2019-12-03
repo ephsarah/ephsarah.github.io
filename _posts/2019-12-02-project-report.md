@@ -61,7 +61,7 @@ An up-close view of my fabric tube that encases the star's positive trace. This 
 
 ![2 Sides](https://ephsarah.github.io/img/2sidestree.JPG)
 
-Before I sewed the two faces togegther.
+Before I sewed the two faces together. I cut out circles for the LEDs and male side of the snap to pop through. This way I could hide the wiring and be able to sew decorations to the outside. I sewed different colored designs for each row of lights, added a "Merry & Bright" tree skirt, and used blanket stitch around the edges to bring the faces together.
 
 ![Final Tree](https://ephsarah.github.io/img/finaltree.JPG)
 
@@ -73,9 +73,9 @@ The tree, all trimmed and ready to sing and dance!
 
 2. Be brave and test, test, test! There were several moments when I felt wary of moving forward with the project because I was worried it wouldn't work and then I'd have to start over. I realized that sometimes you have to just go for it -- test when you can, but sometimes you just have to hope for the best and see if it works!
 
-3. Overestimate time it takes to sew decorations! This is not something that can be rushed...Rushing == painful needle pokes!
+3. Overestimate the time it takes to sew decorations! This is not something that can be rushed...Rushing == painful needle pokes!
 
-4. Position LEDs closer to board to minimize voltage drop. I noticed the white LEDs (farthest away) tended to get dim. Sometimes I could fix this by wiggling the wiring/board around a little bit. They were a bit temperamental.
+4. Position LEDs closer to board to minimize voltage drop. I noticed the white LEDs (farthest away) tended to get dim. Sometimes I could fix this by wiggling the wiring/board around a little bit. They were a bit temperamental but functioned properly.
 
 
 **7. Citations of any resources used**
