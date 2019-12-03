@@ -14,23 +14,23 @@ comments: true
     *Amidst the stress of papers and final exams, it's often hard for me to get in the Christmas spirit!*
     *I designed this singing, light-up Christmas tree to remind myself that the most wonderful time of the year is indeed right around the corner...no matter the academic challenges that lie ahead.*
     *It's the perfect size to hang up on your dorm wall - and small enough to bring home to show off to parents! I know mine are anxious to see the new skills I've picked up in CS103.*
-    * * When light sensor senses it's dark, LEDs flash in pattern that looks like snow falling (highest position LED to lowest -- white, green, red -- twinkling similar to ghost firefly).*
-    * * When light sensor senses it's dark AND yellow star is snapped onto top of tree, buzzer plays "Jingle Bells" and LEDs flash according to the music.*
+    * When light sensor senses it's dark, LEDs flash in pattern that looks like snow falling (highest position LED to lowest -- white, green, red -- twinkling similar to ghost firefly).
+    * When light sensor senses it's dark AND yellow star is snapped onto top of tree, buzzer plays "Jingle Bells" and LEDs flash according to the music.
 
 2. **Comprehensive materials list**
-    *LilyPad board
-    *6 LilyPad LEDs
-    *1 light sensor
-    *1 buzzer
-    *conductive thread
-    *12" strip of conductive fabric
-    *scissors, needle
-    *1 snap (1 female and 1 male side)
-    *green felt (20" x 20")
-    *1 square brown felt
-    *1 square yellow felt
-    *red, green shiny embroidery floss
-    *yellow, green embroidery floss
+    * LilyPad board
+    * 6 LilyPad LEDs
+    * 1 light sensor
+    * 1 buzzer
+    * conductive thread
+    * 12" strip of conductive fabric
+    * scissors, needle
+    * 1 snap (1 female and 1 male side)
+    * green felt (20" x 20")
+    * 1 square brown felt
+    * 1 square yellow felt
+    * red, green shiny embroidery floss
+    * yellow, green embroidery floss
     
 3. **Screenshot of your revised paper prototype of your project**
 ![Paper Prototype](https://ephsarah.github.io/img/treeproto.jpg)
@@ -48,6 +48,7 @@ comments: true
 
 
 7. **Citations of any resources used**
+    
     Music code taken from http://repairmypc.net/2017/08/jingle-bells-arduino-sketch/
     posted August 25, 2017 by Emmanuel
 
